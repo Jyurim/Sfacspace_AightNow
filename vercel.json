@@ -1,0 +1,16 @@
+{
+  "crons": [
+    {
+      "path": "/api/news/local",
+      "schedule": "0 * * * *"
+    },
+    {
+      "path": "/api/news/naver",
+      "schedule": "0 * * * *"
+    },
+    {
+      "path": "/api/news/rank",
+      "schedule": "0 * * * *"
+    }
+  ]
+}
