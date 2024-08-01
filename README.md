@@ -6,9 +6,10 @@
 
 해외 주식 정보를 조회하고, AI 분석을 통해 수치와 그래프로 표기해주고, 수익성, 성장성등의 데이터를 확인할 수 있으며, 관심 종목들의 최신 뉴스, AI의 애널리스트를 확인 할 수 있습니다.
 
+<!--
 | 배포 사이트 | 💻 [배포 링크](https://nextjs-1st-team-7.vercel.app/) |
 | :---------: | :---------------------------------------------------: |
-
+ -->
 <br>
 
 - 프로젝트 기간: 2024.06.17 ~ 2023.08.02 (6주)
@@ -31,15 +32,15 @@
     <tbody>
       <tr>
         <td width="15%">
-          <img height="200px" src="https://github.com/user-attachments/assets/536cb8f5-888c-4225-a25e-1fa57e83e278" width="100%" alt="" />
+           <img src="https://avatars.githubusercontent.com/u/114140840?v=4"  width="100%" />
           <h2><b>임민규 <a href="https://github.com/nile27"><img src="https://img.shields.io/badge/github-181717??style=social&logo=github&logoColor=white" /></a></b></h2>
         </td>
         <td width="15%">
-          <img height="200px" src="https://github.com/user-attachments/assets/5533e2c5-6333-47b8-b5c0-a4e9f83ef60b" width="100%" alt="" />
+          <img src="https://avatars.githubusercontent.com/u/86533373?v=4"  width="100%"/>
           <h2><b>진종환 <a href="https://github.com/MSbtff"><img src="https://img.shields.io/badge/github-181717??style=social&logo=github&logoColor=white" /></a></b></h2>
         </td>
         <td width="15%">
-          <img height="200px" src="https://github.com/user-attachments/assets/fc536ae8-4d05-4a7c-beda-f594801ece6c" width="100%" alt= />
+          <img src="https://avatars.githubusercontent.com/u/113421377?v=4"  width="100%"/>
           <h2><b>전유림 <a href="https://github.com/Jyurim"><img src="https://img.shields.io/badge/github-181717??style=social&logo=github&logoColor=white" /></a></b></h2>
         </td>
       </tr>
